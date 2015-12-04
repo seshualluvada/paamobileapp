@@ -1,0 +1,31 @@
+sdkversion: "5.0.0"
+name: "CareFusionApplications"
+version: "1.0.0"
+vendor: "CareFusion"
+build: "Release"
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator7.0"
+  provisionprofile: 
+  codesignidentity: "iPhone Developer"
+  entitlements: 
+  BundleIdentifier: "com.carefusion.carefusionApplications"
+  BundleURLScheme: "carefusionApplications"
+wp8:
+  productid: "e1b5b431-4070-0132-cef8-402cf48a886b"
+android:
+  android_title: 0
+  orientation: "portrait"
+  manifest_template: "AndroidManifest.erb"
+  version: "2.3.3"
+  capabilities:
+wm:
+  sdk: "Windows Mobile 6.5.3 Professional DTK (ARMV4I)"
+rhoelements:
+  config: Config_wm.xml
+extensions:
+  - rhoconnect-client
+app_type: "rhoelements"
+capabilities:
+  - sdcard

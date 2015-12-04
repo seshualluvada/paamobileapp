@@ -1,0 +1,12 @@
+<div data-role="page" data-url="<%= Rho::Application.startURI %>/">
+
+  <h2 style="color:red">Missing Server Configuration</h2>
+  
+  <h3>Please copy the server configuration file to the folder to the below path 
+    <% if Rho::System.getProperty('platform') == 'ANDROID' %>
+		<p> "/mnt/sdcard/Android/data/com.carefusion.carefusionApplications/server.txt",</p> force stop the 
+			Mobile Dashboard application and relaunch the application.</h3> 
+	<% elsif Rho::System.getProperty('platform') == 'WINDOWS' %>
+		<p> "\Program Files\CarefusionApplications\server.txt",</p> open task manager and end the CareFusionApplications App and relauch it again.</h3>
+	<% end %>
+</div>

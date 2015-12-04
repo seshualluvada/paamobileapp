@@ -1,0 +1,9 @@
+rhodes_path='C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.0.2'
+app_version='1.0.0'
+app_name='MobileDashboard'
+reload_app_changes=0
+debug_port=
+debug_host='127.0.0.1'
+platform='android'
+os_version='2.3.3'
+ext_path=C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.0.2/lib/commonAPI/coreapi;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.0.2/lib/extensions/json;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhoconnect-client-5.0.2/lib/../ext/rhoconnect-client;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.0.2/libs/rhoelementsext;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.0.2/libs/motoapi;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.0.2/libs/barcode;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.0.2/libs/signature;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.0.2/libs/cardreader;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.0.2/libs/indicators;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhoelements-5.0.2/libs/hardwarekeys;C:/MotorolaRhoMobileSuite5.0.2/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.0.2/lib/commonAPI/sensor;
