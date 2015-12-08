@@ -6,7 +6,7 @@ build: "Release"
 applog: "rholog.txt"
 iphone:
   configuration: "Release"
-  sdk: "iphoneOS6.1"
+  sdk: "iphoneos6.1"
   provisionprofile: 
   codesignidentity: "iPhone Developer"
   entitlements: 
