@@ -1,5 +1,5 @@
 # startup page for your application
-start_path = 'https://www.google.com'
+start_path = 'https://appframework.cloudapp.net/appframework'
 
 # path to the options page (in this case handled by javascript)
 options_path = '/app/Settings'
